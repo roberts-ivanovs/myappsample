@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# tes for git iks de addd
+# tes for git iks de ad
 #git test 2 
 import os
 import sys
